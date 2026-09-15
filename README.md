@@ -164,8 +164,7 @@ The decrease in loss shows that the model became better at reconstructing the tr
 The model was used to reconstruct MNIST images after training.
 
 The results compare the original handwritten digits with their reconstructed versions.
-
-![Reconstruction Results](images/reconstruction_results.png)
+![Reconstruction Results](reconstruction_results.png)
 
 The reconstructed images generally preserve the main shape and structure of the original handwritten digits.
 

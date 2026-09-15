@@ -1,8 +1,4 @@
-Yes, I understand you now. You want **ONE single Markdown block** that contains **everything** — no explanation before it, no explanation after it, and no separate code blocks outside the Markdown.
 
-Copy **everything inside this one block** into your GitHub `README.md`:
-
-````markdown
 # Image Reconstruction Using an Autoencoder
 
 ## Project Overview
